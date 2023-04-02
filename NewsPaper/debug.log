@@ -1,0 +1,15 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2382
+"GET /news HTTP/1.1" 301 0
+"GET /news/ HTTP/1.1" 200 14029
+"GET /static/css/styles.css HTTP/1.1" 200 206521
+INFO Watching for file changes with StatReloader
+INFO Watching for file changes with StatReloader
+INFO /Users/yuliya/Desktop/NewPortal2/NewsPaper/NewsPaper/settings.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO /Users/yuliya/Desktop/NewPortal2/NewsPaper/NewsPaper/settings.py changed, reloading.
+2023-03-31 08:20:18,200 INFO Watching for file changes with StatReloader
+2023-03-31 08:33:05,189 INFO /Users/yuliya/Desktop/NewPortal2/NewsPaper/NewsPaper/settings.py changed, reloading.
+2023-03-31 08:40:14,847 INFO Watching for file changes with StatReloader
